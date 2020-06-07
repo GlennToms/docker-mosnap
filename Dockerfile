@@ -35,6 +35,7 @@ RUN set -ex \
        Mopidy-YouTube \
        Mopidy-TuneIn \
        Mopidy-MusicBox-Webclient \
+       Mopidy-Iris \
        pyopenssl
 
 # Get and install Snapserver
